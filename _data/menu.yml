@@ -12,7 +12,7 @@ entries:
   - title: poetry
     post_list: true
     limit: 5
-    category: fiction
+    category: poetry
     show_more: true
     show_more_url: poetryarchive.html
 
