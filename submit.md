@@ -6,7 +6,7 @@ permalink: /submit/
 
 We publish fiction and poetry.
 
-W pay $25 per accepted piece.
+We pay $25 per accepted piece.
 
 Hanna Shea edits poetry. "I want to read poems that make space for incompatibility, disunion, chaos. Also poems about the rocks and clouds near your home."
 
