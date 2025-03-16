@@ -1,6 +1,6 @@
 ---
 layout: category
 title: News
-which_category: news
+category: news
 permalink: /news/
 ---
