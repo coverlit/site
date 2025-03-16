@@ -8,7 +8,7 @@ entries:
       category: fiction
       show_more: true
       show_more_text: See archive...
-      show_more_url: fictionarchive.html
+      show_more_url: fiction.html
 
   - title: Poetry
     post_list: 
@@ -16,7 +16,7 @@ entries:
       category: poetry
       show_more: true
       show_more_text: See archive...
-      show_more_url: poetryarchive.html
+      show_more_url: poetry.html
 
   - title: News
     post_list:
@@ -24,7 +24,7 @@ entries:
       category: news
       show_more: true
       show_more_text: See archive...
-      show_more_url: newsarchive.html
+      show_more_url: news.html
     
   - title: Info
     entries: 
