@@ -5,7 +5,7 @@ entries:
   - title: Fiction
     post_list: true
       limit: 5
-      which_category: fiction
+      category: fiction
       show_more: true
       show_more_text: See archive...
       show_more_url: fictionarchive.html
@@ -13,7 +13,7 @@ entries:
   - title: Poetry
     post_list: true
       limit: 5
-      which_category: poetry
+      category: poetry
       show_more: true
       show_more_text: See archive...
       show_more_url: poetryarchive.html
@@ -21,7 +21,7 @@ entries:
   - title: News
     post_list: true
       limit: 5
-      which_category: news
+      category: news
       show_more: true
       show_more_text: See archive...
       show_more_url: newsarchive.html
