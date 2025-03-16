@@ -3,7 +3,7 @@
 
 entries:
   - title: Fiction
-    post_list: true
+    post_list:
       limit: 5
       category: fiction
       show_more: true
@@ -11,7 +11,7 @@ entries:
       show_more_url: fictionarchive.html
 
   - title: Poetry
-    post_list: true
+    post_list: 
       limit: 5
       category: poetry
       show_more: true
@@ -19,7 +19,7 @@ entries:
       show_more_url: poetryarchive.html
 
   - title: News
-    post_list: true
+    post_list:
       limit: 5
       category: news
       show_more: true
