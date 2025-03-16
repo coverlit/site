@@ -4,24 +4,27 @@
 entries:
   - title: Fiction
     post_list: true
-    limit: 5
-    which_category: fiction
-    show_more: true
-    show_more_url: fictionarchive.html
+      limit: 5
+      which_category: fiction
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: fictionarchive.html
 
   - title: Poetry
     post_list: true
-    limit: 5
-    which_category: poetry
-    show_more: true
-    show_more_url: poetryarchive.html
+      limit: 5
+      which_category: poetry
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: poetryarchive.html
 
   - title: News
     post_list: true
-    limit: 5
-    which_category: news
-    show_more: true
-    show_more_url: newsarchive.html
+      limit: 5
+      which_category: news
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: newsarchive.html
     
   - title: Info
     entries: 
