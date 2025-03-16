@@ -1,12 +1,24 @@
 ---
-layout: category
+layout: default
 title: Contributors
 permalink: /contributors/
 ---
 
-  - title: Hanna Shea
-    post_list:
-      category: hanna_shea
- - title: Ryan Shea
-    post_list:
-      category: ryan_shea
+# Contributors
+
+{% assign contributors = "hanna_shea, john_doe, jane_smith" | split: ", " %}
+
+{% for contributor in contributors %}
+## {{ contributor | replace: "_", " " | capitalize }}
+
+<ul>
+  {% for post in site.posts %}
+    {% if post.categories contains contributor %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+{% endfor %}
