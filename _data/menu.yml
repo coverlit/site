@@ -29,7 +29,7 @@ entries:
   - title: Info
     entries: 
       - title: Contributors
-        url: https://cover.pub/contributors
+        url: contributors.html
       - title: About
       - title: Submissions
 
