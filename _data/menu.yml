@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: Riction
+  - title: fiction
     post_list: true
     limit: 5
     category: fiction
