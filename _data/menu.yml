@@ -5,21 +5,21 @@ entries:
   - title: Fiction
     post_list: true
     limit: 5
-    category: fiction
+    which_category: fiction
     show_more: true
     show_more_url: fictionarchive.html
 
   - title: Poetry
     post_list: true
     limit: 5
-    category: poetry
+    which_category: poetry
     show_more: true
     show_more_url: poetryarchive.html
 
   - title: News
     post_list: true
     limit: 5
-    category: news
+    which_category: news
     show_more: true
     show_more_url: newsarchive.html
     
