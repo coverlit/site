@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Fiction
-category: fiction
+which_category: fiction
 permalink: /fiction/
 ---
