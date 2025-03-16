@@ -1,4 +1,5 @@
 ---
 layout: archive
-title: Archive
+title: Fiction Archive
+which_category: fiction
 ---
