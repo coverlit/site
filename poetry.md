@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Poetry
-category: poetry
+which_category: poetry
 permalink: /poetry/
 ---
