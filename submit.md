@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Submit
+permalink: /submit/
 ---
 
 We publish fiction and poetry.
