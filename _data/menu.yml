@@ -30,8 +30,8 @@ entries:
     entries: 
       - title: Contributors
         url: https://cover.pub/contributors
-      - title: About
-      - title: Submissions
+      - title: Submit
+        url: https://cover.pub/submit
 
   - title: rss
     url: feed.xml
