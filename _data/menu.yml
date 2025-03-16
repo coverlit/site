@@ -15,6 +15,13 @@ entries:
     category: fiction
     show_more: true
     show_more_url: poetryarchive.html
+
+  - title: news
+    post_list: 
+    limit: 5
+    category: news
+    show_more: true
+    show_more_url: newsarchive.html
     
   - title: info
     entries: 
