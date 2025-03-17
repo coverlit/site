@@ -11,9 +11,9 @@ Starting April 1, we're evolving. Below is a list of changes and why we made the
 
 1: Paying $25 per accepted piece.
 
-The web is a promising place for writers. Web journals should provide concerete delivery on that promise in many forms. One form is respect. We believe that paying for a story is a basic point of respect for writing we love. It raises the stake for the writers submitting and for us as editors. We will not waste money.
+The web is a promising place for writers. Web journals should provide concrete delivery on that promise in many forms. One form is respect. We believe that paying for a story is a basic point of respect for writing we love. It raises the stake for the writers submitting and for us as editors. We will not waste money.
 
-Also, we work decent paying jobs for corporations. If we can be barnicles on these large systems of capital, we want some of that money to go to writers and into the writing community (whatever that means, maybe buy some indie press books with the pay).
+Also, we work decent paying jobs for corporations. If we can be barnacles on these large systems of capital, we want some of that money to go to writers and into the writing community (whatever that means, maybe buy some indie press books with the pay).
 
 2: Site Remodel
 
