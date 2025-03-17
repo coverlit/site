@@ -37,6 +37,10 @@ body {
   overflow-wrap: break-word;
 }
 
+ul li a {
+  color: #FF69B4 !important;
+}
+
 .post-meta { text-align: right; }
 
 h2, h3, h4, h5, h6 { margin-top: 3rem; }
@@ -81,10 +85,6 @@ div.highlighter-rouge code {
   overflow-x: auto;
   white-space: pre-wrap;
   padding: 1rem;
-}
-
-nav ul li a {
-  color: #FF69B4 !important;
 }
 
 blockquote {
