@@ -44,6 +44,11 @@ nav ul li a {
 .menu a {
    color: #FF69B4;
 }
+
+a:-webkit-any-link {
+  color: #FF69B4 !important;
+}
+
 .post-meta { text-align: right; }
 
 h2, h3, h4, h5, h6 { margin-top: 3rem; }
