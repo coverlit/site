@@ -37,13 +37,11 @@ body {
   overflow-wrap: break-word;
 }
 
-$link-color: #FF69B4 !important;
-
 a,
 nav a,
 .w a,
 ul li a {
-  color: #FF69B4;
+  color: #FF69B4 !important;
 }
 
 a:-webkit-any-link {
