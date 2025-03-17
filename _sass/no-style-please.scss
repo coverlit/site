@@ -56,13 +56,8 @@ hr { margin: 2rem 0; }
 
 p { margin: 1rem 0; margin-top: 3rem;}
 
-ul > li {
-  margin-bottom: 3rem; /* Adjust as needed */
-}
-
-/* Ensure sub-items do not inherit the extra spacing */
-ul li ul li {
-  margin-bottom: 1.7; margin: 0.4rem 0; /* Reset spacing for sub-items */
+li {
+  margin-bottom: 1.7; margin: 0.4rem 0;
 }
 
 *:target { background: yellow; }
