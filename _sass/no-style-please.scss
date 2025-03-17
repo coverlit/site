@@ -107,3 +107,13 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+/* Reduce space between title and description */
+.title, .description {
+  margin-bottom: 0; /* Removes extra space */
+}
+
+/* Add space before the menu */
+ul {
+  margin-top: 4rem; /* Adjust this value as needed */
+}
