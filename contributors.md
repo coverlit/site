@@ -4,7 +4,7 @@ title: Contributors
 permalink: /contributors/
 ---
 
-# Contributors
+
 
 {% assign contributors = "hanna_shea, ryan_shea" | split: ", " %}
 
