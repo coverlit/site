@@ -112,6 +112,10 @@ img {
 }
 
 /* Reduce space between title and description */
-.title, .description {
+.title {
   margin-bottom: 0; /* Removes extra space */
+}
+
+.description {
+  margin-bottom: 3; /* Removes extra space */
 }
