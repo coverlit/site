@@ -37,14 +37,16 @@ body {
   overflow-wrap: break-word;
 }
 
+$link-color: #FF69B4 !important;
+
 nav a,
 .menu a,
 ul li a {
-  color: #FF69B4 !important;
+  color: #FF69B4;
 }
 
 a:-webkit-any-link {
-  color: #FF69B4 !important;
+  color: #FF69B4;
 }
 
 .post-meta { text-align: right; }
