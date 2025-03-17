@@ -38,9 +38,12 @@ body {
 }
 
 nav ul li a {
-  color: #FF69B4 !important;
+  color: #FF69B4;
 }
 
+.menu a {
+   color: #FF69B4;
+}
 .post-meta { text-align: right; }
 
 h2, h3, h4, h5, h6 { margin-top: 3rem; }
