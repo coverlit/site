@@ -4,6 +4,7 @@ title: Submit
 permalink: /submit/
 ---
 
+
 <p>We publish fiction and poetry.</p>
 
 <p>We pay $25 per accepted piece.</p>
