@@ -9,7 +9,7 @@ permalink: /submit/
 
 <p>We publish fiction and poetry.</p>
 <p>We pay $25 per accepted piece.</p>
-<p>We have no affiliation with <a href="https://covermagnyc.com/">this magazine</a> but it looks like it was cool and was founded the year I (Ryan) was born.</p>
+<p>We have no affiliation with <a href="https://covermagnyc.com/">this magazine that existed until 2000</a>, but it looks rad and was founded the year I (Ryan) was born.</p>
 
 
 <h3>Who</h3>
