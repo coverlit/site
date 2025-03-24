@@ -9,7 +9,7 @@ category: news
 
 <h3>1: Paying $25 per accepted piece.</h3>
 
-<p>The web is a promising place for writers. Web journals should deliver on that promise. Plenty of ways to do that, but paying is clear. We believe that paying for a story is a basic point of respect for writing we love. It raises the stake for the writers submitting and for us as editors.</p>
+<p>The web is a promising place for writers. Web journals should deliver on that promise. Plenty of ways to do that, but paying is clear. We believe that paying for a story is a basic point of respect for writing we love. It raises the stakes for the writers submitting and for us as editors.</p>
 
 <p>This applies retroactively to everyone who has published with us. I'll reach out on April 1. You can also send a message anytime.
 
