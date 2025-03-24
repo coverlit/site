@@ -4,10 +4,13 @@ title: Contributors
 permalink: /contributors/
 ---
 
-{% assign contributors = "first_last, other_writer" | split: "," %}
+{% assign contributors = "first_last,other_writer" | split: "," %}
 
 {% for contributor in contributors %}
-## {{ contributor | replace: "_", " " | split: " " | map: "capitalize" | join: " " }}
+  {% assign parts = contributor | split: "_" %}
+  {% assign first = parts[0] | capitalize %}
+  {% assign last = parts[1] | capitalize %}
+## {{ first }} {{ last }}
 
 <ul>
   {% for post in site.posts %}
