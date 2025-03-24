@@ -9,7 +9,7 @@ permalink: /contributors/
 {% assign contributors = "first_last" | split: ", " %}
 
 {% for contributor in contributors %}
-## {{ contributor | replace: "_", " " | capitalize }}
+## {{ contributor | replace: "_", " " | split: " " | map: "capitalize" | join: " " }}
 
 <ul>
   {% for post in site.posts %}
