@@ -6,7 +6,7 @@ permalink: /contributors/
 
 
 
-{% assign contributors = "hanna_shea, ryan_shea" | split: ", " %}
+{% assign contributors = "first_last" | split: ", " %}
 
 {% for contributor in contributors %}
 ## {{ contributor | replace: "_", " " | capitalize }}
