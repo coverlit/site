@@ -15,7 +15,7 @@ permalink: /submit/
 <h3>Who</h3>
 
 <p><a href="https://hanna-shea.com/">Hanna Shea</a> edits poetry. "I want to read poems that make space for incompatibility, disunion, chaos. Also poems about the rocks and clouds near your home."</p>
-<p><a href="https://ryanshea.info">Ryan Shea</a> edits fiction. "I want to publish work that gives a shit, that is not afraid to move, that is paying attention, but to something else."</p>
+<p><a href="https://ryanshea.info">Ryan Shea</a> edits fiction. "I want to publish work that gives a shit, that is not afraid to move, that is paying attention, but to something else. I'm excited about experimental, transgressive horror, speculative fiction that is not twee, and literary stories that run for the cliff's edge."</p>
 
 
 <h3>How</h3>
