@@ -4,7 +4,7 @@ title: Contributors
 permalink: /contributors/
 ---
 
-{% assign contributors = "christina_rau,jon_doughboy,ivy_grimes" | split: "," %}
+{% assign contributors = "christina_rau,jon_doughboy,ivy_grimes,daniel_miller" | split: "," %}
 
 {% for contributor in contributors %}
   {% assign parts = contributor | split: "_" %}
