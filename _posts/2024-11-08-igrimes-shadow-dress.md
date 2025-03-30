@@ -108,4 +108,4 @@ The next time a party passed to lead her out of town, it would be fun to follow 
 <br><br>
 <br><br>
 <hr>
-Ivy Grimes has stories in The Baffler, ergot., hex, and elsewhere. Her collection Glass Stories is out with Grimscribe Press. Feel free to visit her at www.ivyivyivyivy.com.
+Ivy Grimes has stories in The Baffler, ergot., hex, and elsewhere. Her collection Glass Stories is out with Grimscribe Press. Feel free to visit her at <a href="https://www.ivyivyivyivy.com">www.ivyivyivyivy.com</a>.
