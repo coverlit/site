@@ -1,5 +1,10 @@
-
-
+---
+layout: post
+title: Shadow Dress by Ivy Grimes
+date: 2024-12-17 10:00:00 -0000
+categories: [fiction, ivy_grimes]
+---
+<div class="story">
 She was horribly naked. All she had left was her shadow, which she gathered up like tulle. She slipped her head through an opening in the shadow and pulled it down over her body until it covered the tops of her thighs. 
 
 It was her own fault. She chose to follow the others out of town to the wildflower field. After setting up camp, they had a long celebration. The last thing she remembered was lying on a rumpled purple duvet in a grit of cracker crumbs with empty beer cans scattered at her head. 
@@ -99,3 +104,8 @@ A salesman knocked on the door. When she greeted him, he asked when she was due.
 He went away confused. 
 
 The next time a party passed to lead her out of town, it would be fun to follow along. They probably couldn’t steal her shadow. Anyway, the shadow was a self-renewing resource. With it, there was no threat of nakedness or spots or bugs. When she went outside, her shadow kept her cool, and the sun shone around her.
+</div>
+<br><br>
+<br><br>
+<hr>
+Ivy Grimes has stories in The Baffler, ergot., hex, and elsewhere. Her collection Glass Stories is out with Grimscribe Press. Feel free to visit her at www.ivyivyivyivy.com.
