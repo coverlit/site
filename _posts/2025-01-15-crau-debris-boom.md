@@ -5,7 +5,7 @@ date: 2025-03-24 10:00:00 -0000
 categories: [poetry, christina_m_rau]
 ---
 
-<ul class="poem">
+<div class="poem">
 - Overtilling in the fields
 - sends vibrations through
 - earth stilling basin over
@@ -24,7 +24,7 @@ categories: [poetry, christina_m_rau]
 - the coffers expecting rain
 - Alchemy doesn’t work
 - that way
-</ul>
+</div>
 
 
 <a href="http://www.christinamrau.com">Christina M. Rau</a>’s collections include How We Make Amends, What We Do To Make Us Whole, and the Elgin Award-winning Liberating The Astronauts. She moderates the Women’s Poetry Listserv and has served as Poet in Residence for Oceanside Library (NY) since 2020. Her poetry airs on Destinies radio show (WUSB) and appears in various literary journals like fillingStation and The Disappointed Housewife while her prose has appeared in Punk Monk Magazine and Reader’s Digest. During her downtime, she watches the Game Show Network. FB/IG/X/Bsky: @christinamrau 
