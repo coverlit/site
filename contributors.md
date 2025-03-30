@@ -4,7 +4,7 @@ title: Contributors
 permalink: /contributors/
 ---
 
-{% assign contributors = "jack_bedell,laynie_browne,lauren_camp,andrew_cothren,jon_doughboy,gabe_durham,sean_ennis,ivy_grimes,daniel_miller,christina_rau" | split: "," %}
+{% assign contributors = "jack_bedell,laynie_browne,lauren_camp,andrew_cothren,jon_doughboy,gabe_durham,sean_ennis,connor_fisher,ivy_grimes,daniel_miller,christina_rau" | split: "," %}
 
 {% for contributor in contributors %}
   {% assign parts = contributor | split: "_" %}
