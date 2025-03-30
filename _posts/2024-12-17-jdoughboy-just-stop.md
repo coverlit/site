@@ -40,4 +40,4 @@ The fat man sits down, winded from his moving experience … Beauty with a capit
 <br><br>
 <br><br>
 <hr>
-After serving his country at various CIA black sites across the Near, Middle, and Far East, <a href="https://linktr.ee/doughboywrites">Jon</a> Doughboy has decided to leave the workforce to pursue his passion: writing very short stories and publishing them online. Enjoy the rush of his waterboard prose @doughboywrites
+After serving his country at various CIA black sites across the Near, Middle, and Far East, <a href="https://linktr.ee/doughboywrites">Jon Doughboy</a> has decided to leave the workforce to pursue his passion: writing very short stories and publishing them online. Enjoy the rush of his waterboard prose @doughboywrites
