@@ -4,7 +4,6 @@ title: Fiction
 category: fiction
 permalink: /fiction/
 ---
-
 {% assign fiction_posts = site.posts | where_exp: "post", "post.categories contains 'fiction'" %}
 
 <ul>
