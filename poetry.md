@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: page
 title: Poetry
 category: poetry
 permalink: /poetry/
