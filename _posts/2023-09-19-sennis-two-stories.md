@@ -5,7 +5,7 @@ date: 2023-09-19 10:00:00 -0000
 categories: [fiction, sean_ennis]
 ---
 <div class="story">
-<h3>It Gets Much Better Than This</h3></h3>
+<h3>It Gets Much Better Than This</h3>
 Our baby is gone. Let’s have another. Let's have date night. Let’s adopt a stray. Let's prudently start a college fund. I’d like to get love. I’ve not had anyone’s full attention in a long time. Your hair and mouth. Your blue green. Come heat your skin.
 
 But I used my work voice, which she cannot ever hear. She’s always saying, “My friend Shadow” this, “My friend Shadow” that. Some of us hate stories about people we don’t know.
