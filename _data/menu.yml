@@ -32,6 +32,8 @@ entries:
         url: https://cover.pub/contributors
       - title: About
         url: https://cover.pub/about
+      - title: Links
+        url: https://cover.pub/links
 
   - title: rss
     url: feed.xml
