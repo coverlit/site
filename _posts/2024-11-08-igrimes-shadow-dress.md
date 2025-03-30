@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shadow Dress by Ivy Grimes
-date: 2024-12-17 10:00:00 -0000
+date: 2024-11-08 10:00:00 -0000
 categories: [fiction, ivy_grimes]
 ---
 <div class="story">
