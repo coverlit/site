@@ -4,7 +4,7 @@ title: Just Stop! by Jon Doughboy
 date: 2024-12-17 10:00:00 -0000
 categories: [fiction, jon_doughboy]
 ---
-<div class="fiction">
+<div class="story">
 Rodin’s the Bard with a Broken Nose is staring down at Laurel because she’s epoxied her hand to its pedestal to stop oil, just stop it—Why? Because the government doesn’t give a fuck, that’s why. Not a single sorry fuck about its responsibilities, as the organization’s website says, and the country is in ruins … tap water so much seeping sewage … NHS gutted, zombie nurses shuffling sickly halls … universities hiking fees, an investment with no return … can you even call Britain a proper country? … not so great anymore, tattered remnants of a despicable empire … John Bull, demented, obese, drooling in the corner over his twelve-pound fish and chips and bitching about Polish lorry drivers …
 
 He’s not bad looking, Rodin’s Bard, the bronze cast head with butternut squash soup running down it courtesy of Laurel and Masie, of Just Stop Oil, orange tears, the future weeping over our selfish present … not bad looking for a poet, for the depiction of a dead poet by a dead sculptor … Rodin, that egomaniac! Look what he did to poor Camille Claudel! Sucked up her energy, her creativity, her future, left her a husk … we’re all husks, people, the planet, withered … the patriarchy and Big Oil, petroleum products as the patriarchy’s lube as it fucks us, fucks the world … Art history, despite Laurel majoring in it, is nothing but the history of elite rape culture …
