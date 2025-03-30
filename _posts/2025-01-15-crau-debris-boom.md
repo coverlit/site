@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Debris Boom by Christina M. Rau
-date: 2025-03-24 10:00:00 -0000
+date: 2025-01-15 10:00:00 -0000
 categories: [poetry, christina_m_rau]
 ---
 
