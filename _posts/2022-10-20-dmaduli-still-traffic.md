@@ -5,7 +5,7 @@ date: 2022-10-20 10:00:00 -0000
 categories: [poetry, david_s_maduli]
 ---
 <div class="poem">
-<img src="/_screenshots/still-traffic_webL.png">
+<img src="/images/still-traffic_webL.png">
 </div>
 <br><br>
 <br><br>
