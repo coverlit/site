@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [INSERT NAME] by Andrew Cothren
+title: &#91;Insert Name&#93; by Andrew Cothren
 date: 2024-01-04 10:00:00 -0000
 categories: [fiction, andrew_cothren]
 ---
