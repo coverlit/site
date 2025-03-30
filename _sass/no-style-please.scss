@@ -109,5 +109,7 @@ img {
 }
 
 .poem {
-  list-style-type: none
-    }
+  list-style-type: none;
+  white-space: pre-line;
+  margin-bottom: 2em;
+}
