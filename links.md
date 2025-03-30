@@ -11,7 +11,7 @@ Places where we tend to find writing we like. These were once in alphabetical or
 
 <a href="https://adozennothing.com/">A Dozen Nothing</a>
 
-<a href="https://www.ergot.press/">ergot</a>
+<a href="https://www.ergot.press/">ergot.</a>
 
 <a href="https://hexliterary.com/">hex</a>
 
