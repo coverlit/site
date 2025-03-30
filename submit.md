@@ -1,11 +1,38 @@
 ---
 layout: page
-title: Submit
-permalink: /submit/
+title: Links
+permalink: /links/
 ---
+Places where we tend to find writing we like. These were once in alphabetical order and are now in no order.
 
-<p>Email submissions to coverlitmag@gmail.com.</p>
-<p>Include the title(s) and your name in the subject line.</p>
-<p>Add the work as an attachment (doc, pdf, whatever makes sense).</p>
-<p>We’ll ask for a short bio on acceptance.</p>
-<p>Please submit with the knowledge that we will likely have edits.</p>
+<a href="https://www.afternoonvisitor.com/">Afternoon Visitor</a>
+
+<a href="https://www.alwayscrashing.com/">Always Crashing</a>
+
+<a href="https://adozennothing.com/">A Dozen Nothing</a>
+
+<a href="https://www.ergot.press/">ergot</a>
+
+<a href="https://hexliterary.com/">hex</a>
+
+<a href="https://sixthfinch.com/">Sixth Finch</a>
+
+<a href="https://www.matchbooklitmag.com/">Matchbook</a>
+
+<a href="https://www.3ammagazine.com/3am/">3AM</a>
+
+<a href="https://rejection-letters.com/">Rejection Letters</a>
+
+<a href="https://wigleaf.com/">Wigleaf</a>
+
+<a href="https://www.scaffoldlit.com/">Scaffold</a>
+
+<a href="https://neutralspaces.co/magazine/three/">Neutral Spaces</a>
+
+<h3>RIP</h3>
+
+<a href="https://cooprenner.com/archives.html">Elimae</a>
+
+<a href="https://www.thevolta.org/">The Volta</a>
+
+<a href="https://neutralspaces.co/laminationcolony/">Lamination Colony</a>
