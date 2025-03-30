@@ -5,7 +5,7 @@ date: 2023-09-19 10:00:00 -0000
 categories: [fiction, sean_ennis]
 ---
 <div class="story">
-<h3>IT GETS MUCH BETTER THAN THIS</h3>
+<h3>It Gets Much Better Than This</h3></h3>
 Our baby is gone. Let’s have another. Let's have date night. Let’s adopt a stray. Let's prudently start a college fund. I’d like to get love. I’ve not had anyone’s full attention in a long time. Your hair and mouth. Your blue green. Come heat your skin.
 
 But I used my work voice, which she cannot ever hear. She’s always saying, “My friend Shadow” this, “My friend Shadow” that. Some of us hate stories about people we don’t know.
@@ -16,7 +16,7 @@ Our strategy through life had been policiary— good cop-bad cop—but without h
 
 Even the zoo was accused that their bears were people in costumes. The press release said, I am a bear. Most mornings, there are red and blue strikes at the window, cardinals and jays. A stork once. But take it from me. There is no life on Mercury. There is no life on Venus. There is no life on Mars. There is no life in the asteroid belt. There is no life on Jupiter. There is no life on Saturn. There is no life on Uranus. There is no life on Neptune. But the moons.
 
-<h3>THE EMBARRASSMENT OF THE SUPERNATURAL</h3>
+<h3>The Embarrassment of the Supernatural</h3>
 Could I discuss something terribly cliched but that I’m experiencing now for the first time?
 
 I saw the see-through girl last night. Another reckoning. That shit's been trying to creep up.
