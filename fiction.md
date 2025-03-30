@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: page
 title: Fiction
 category: fiction
 permalink: /fiction/
