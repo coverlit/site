@@ -5,7 +5,6 @@ date: 2023-10-27 10:00:00 -0000
 categories: [poetry, laynie_browne]
 ---
 <div class="poem">
-
 <h3>An orange hat</h3>
 An orange hat is not preposterous, is not an imposter. A brim lifted by wind scallops a face, interferes between two faces attempting contact in a photograph. An orange hat blown down a breach is not unbecoming in rumors. A bright circle against a pale oval draped in black. Who is a person having never preferred this segment or band of refraction? A rag of color chooses an orange latitude, a burnt minute. Heady as a seagull piercing an abandoned foil bag, perching on top of an umbrella, diving beneath laughter. Who unfurls saturation? What is change and what is a preference for an orange chain of mind or a sunset of ellipses. Elapse of day? Eclipse of age? Is the middle another location for smolder, ash, and worn moons?
 
