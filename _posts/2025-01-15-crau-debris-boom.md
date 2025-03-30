@@ -6,24 +6,24 @@ categories: [poetry, christina_m_rau]
 ---
 
 <div class="poem">
-- Overtilling in the fields
-- sends vibrations through
-- earth stilling basin over
-- flows disrupted unstilled
+Overtilling in the fields
+sends vibrations through
+earth stilling basin over
+flows disrupted unstilled
 
-- What they did they did without
-- merit stilted swallowing
-- unclear throat
+What they did they did without
+merit stilted swallowing
+unclear throat
 
-- Thinking not knowing still
-- expecting everything they
-- desired and thought
-- they deserved
+Thinking not knowing still
+expecting everything they
+desired and thought
+they deserved
 
-- Now they extract blood from
-- the coffers expecting rain
-- Alchemy doesn’t work
-- that way
+Now they extract blood from
+the coffers expecting rain
+Alchemy doesn’t work
+that way
 </div>
 
 
