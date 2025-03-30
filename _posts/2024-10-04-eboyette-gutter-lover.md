@@ -7,98 +7,98 @@ categories: [poetry, ellen-boyette]
 <div class="poem">
 Eaten by a creature of summer,
 
-  bummer. In a sec I savor a water
+<span class="indent-1">bummer. In a sec I savor a water</span>
 
-    melon jolly rancher. Dancing 
+<span class="indent-2">melon jolly rancher. Dancing</span>
 
 
 tonally livid vapors simmer 
 
-  around my knee highs and I 
+<span class="indent-1">around my knee highs and I</span>
 
-    press a deer skull in beer. 
+<span class="indent-2">press a deer skull in beer.</span>
 
 
 Rest you must my little purple
 
-  finch, cockroach dribble of 
+<span class="indent-1">finch, cockroach dribble of</span>
 
-    gilded inches croaking up 
+<span class="indent-2">gilded inches croaking up</span>
 
 
 from sick buttercups. You
 
-  and I are facts in riptides,
+<span class="indent-1">and I are facts in riptides,</span>
 
-    seismic beige the most outrageous
+<span class="indent-2">seismic beige the most outrageous</span>
 
 
 Lascaux with a quinine sky. 
 
-  Buried vertically she thought
+<span class="indent-1">Buried vertically she thought</span>
 
-    Over my dead bod. You are nodding
+<span class="indent-2">Over my dead bod. You are nodding</span>
 
 
 off while I scare squirrels and eat
 
-  pearls so guess it’s bliss 
+<span class="indent-1">pearls so guess it’s bliss</span>
 
-    and should I forget the humming 
+<span class="indent-2">and should I forget the humming</span>
 
 
 bird cake, should I forget the neutered 
 
-  scarves, should I forget the laser
+<span class="indent-1">scarves, should I forget the laser</span>
 
-    surgery one performed on my 
+<span class="indent-2">surgery one performed on my</span>
 
 
 empty apparatus of Dracula teeth, 
 
-  let me remember your eye sockets 
+<span class="indent-1">let me remember your eye sockets</span>
 
-    falling across my leather backpack 
+<span class="indent-2">falling across my leather backpack</span>
 
 
 and asking “is something wet?” 
 
-  It always soaks up the diversions
+<span class="indent-1">It always soaks up the diversions</span>
 
-    into something akin to rhubarb
+<span class="indent-2">into something akin to rhubarb</span>
 
 
 blood. I’m not hungry for anything
 
-  when the apps restrict my cells
+<span class="indent-1">when the apps restrict my cells</span>
 
-    from chaotic crushes into ether
+<span class="indent-2">from chaotic crushes into ether</span>
 
 
 and neither are you, neon 
 
-  yo-yo dog walker ‘cross bog
+<span class="indent-1">yo-yo dog walker ‘cross bog</span>
 
-    waters turned pink. In a dream 
+<span class="indent-2">waters turned pink. In a dream</span>
 
 
 my cousin was possessed and no 
 
-  one cared. You, dumb infant, 
+<span class="indent-1">one cared. You, dumb infant,</span>
 
-    deceit is perverse like a piercing.
+<span class="indent-2">deceit is perverse like a piercing.</span>
 
 
 If you reckon then you reverse, curse
 
-  A knife wound to dote, remote, corner
+<span class="indent-1">A knife wound to dote, remote, corner</span>
 
-    of lambs sheered into gutter fluff. 
+<span class="indent-2">of lambs sheered into gutter fluff.</span>
 
 
 All I need to know is could it be enough
 
-  to live in the filth of what made us soft?
+<span class="indent-1">to live in the filth of what made us soft?</span>
 </div>
 <br><br>
 <br><br>
