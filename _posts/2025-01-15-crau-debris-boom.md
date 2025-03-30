@@ -2,7 +2,7 @@
 layout: post
 title: Debris Boom by Christina M. Rau
 date: 2025-01-15 10:00:00 -0000
-categories: [poetry, christina_rau]
+categories: [poetry, christina_m_rau]
 ---
 <div class="poem">
 Overtilling in the fields
