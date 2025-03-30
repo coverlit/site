@@ -8,7 +8,7 @@ entries:
       category: fiction
       show_more: true
       show_more_text: See archive...
-      show_more_url: fiction.html
+      show_more_url: /fiction/
 
   - title: Poetry
     post_list: 
