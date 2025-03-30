@@ -16,7 +16,7 @@ entries:
       category: poetry
       show_more: true
       show_more_text: See archive...
-      show_more_url: poetry.html
+      show_more_url: /poetry/
 
   - title: News
     post_list:
