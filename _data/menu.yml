@@ -17,14 +17,6 @@ entries:
       show_more: true
       show_more_text: Poetry archive...
       show_more_url: /poetry/
-
-  - title: News
-    post_list:
-      limit: 5
-      category: news
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: news.html
     
   - title: Info
     entries: 
