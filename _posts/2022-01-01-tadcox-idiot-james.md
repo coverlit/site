@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Idiot
+title: Idiot by James Tadd Adcox
 date: 2022-01-01 10:00:00 -0000
 categories: [fiction, james_tadd_adcox]
 ---
