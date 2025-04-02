@@ -2,7 +2,7 @@
 layout: post
 title: Gutter Lover by Ellen Boyette
 date: 2024-10-04 10:00:00 -0000
-categories: [poetry, ellen-boyette]
+categories: [poetry, ellen_boyette]
 ---
 <div class="poem">
 Eaten by a creature of summer,
