@@ -5,8 +5,6 @@ date: 2022-01-01 10:00:00 -0000
 categories: [fiction, tetman_callis]
 ---
 <div class="story">
-<h3>Howl</h3>
-
 It was two dogs and that’s what they did. One lived there with its man. The other was just visiting, or so the man said when I didn’t ask.
 
 Dogsitting, he said. He looked sheepish. Coincidentally, the dog was a sheepdog.
