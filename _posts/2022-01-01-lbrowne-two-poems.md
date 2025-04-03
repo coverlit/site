@@ -5,7 +5,7 @@ date: 2022-01-01 10:00:00 -0000
 categories: [poetry, laynie_browne]
 ---
 <div class="poem">
-<h3>Glow is Due Mainly to the Presence of Dinoflagellates</div>h3>
+<h3>Glow is Due Mainly to the Presence of Dinoflagellates</h3>
 
 Stacks of profanity dry on newspaper
 while light disappears from eyes
