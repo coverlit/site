@@ -5,7 +5,7 @@ date: 2022-01-01 10:00:00 -0000
 categories: [poetry, t_r_brady]
 ---
 <div class="poem">
-<h3>I want to know about Nighthawks</h3>
+<h3>I wWant to Know About Nighthawks</h3>
 "I’ve never been Edward Hopper,           but every night               when I empty my spam folder 
 
 I want to know             what my internet knows              of my urges       I don’t 
@@ -29,7 +29,7 @@ change all my screen   savers to pictures            of nights              or h
 or any cross between the two"
 
  
-<h3>no numinous</h3>
+<h3>No Numinous</h3>
 <img src="https://cover.pub/images/TR_Brady_Crop1.png">
 </div>
 <br><br>
