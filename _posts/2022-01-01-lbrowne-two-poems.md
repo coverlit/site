@@ -11,15 +11,12 @@ Stacks of profanity dry on newspaper
 while light disappears from eyes
 voices green unguarded
 
-
 cradle wolves or walk
 into symphonies repeatable
 by virtue of technology
 
-
 The wolves and the walking
 and the sun falling are never
-
 
 facsimiles though they resemble
 their sisters
@@ -30,14 +27,11 @@ their sisters
 One card for each question
 fool, star, magician
 
-
 Who are you; we who
 worry return
 
-
 Paint what we cannot say
 love of the objectionable
-
 
 is another form of silence
 grown so many hands
