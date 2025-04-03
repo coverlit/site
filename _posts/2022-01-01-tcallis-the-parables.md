@@ -25,7 +25,7 @@ He could have fed and watered the garden with his own blood, the soil remained p
 
 The onions were impervious to death, but grew small, hard and hot. The tomatoes struggled, some died, one inexplicably flourished late in the season and bore green fruit. The peppers were caught out by a late freeze, their leaves curling black as they died. Few radishes came up among the pebbles, quickly bloomed, had no root bulbs filled with stored food. The desert carpenter ants came and carried off all the carrot seeds, taking bites out of the radish seedlings’ leaves along the way. 
 
-<h3>The Travailian Garden, Part 2</h3
+<h3>The Travailian Garden, Part 2</h3>
 The carrots never came up, their seeds all carried off by the desert carpenter ants. The radishes grew no tuberous bulbs, only long thin roots in the pebbly alkaline soil. Around them and the small, hot onions and the lush vine that grew green tomatoes, sprouted silverleaf nightshade and wild spinach, a half-dozen different grasses, countless cottonwood seedlings and one tall green dicot, name unknown. 
 
 The tenant let everything grow that wanted to grow. The silverleaf nightshade, blue flowers with yellow stamens that would turn into hard round yellow seed pods come autumn, complemented the tomato vine. The wild spinach was alkaline, eating too much of it could bring on sickness, but a few leaves a day could be added to the diet. The grasses and cottonwoods and the one anonymous dicot simply grew, simply were, and the tenant contemplated them every morning at sunrise, squatting by the garden with his morning cup of whiskey in hand. The onions waited, buried in the desert garden, their tops seeking sun, their roots hunting water.
