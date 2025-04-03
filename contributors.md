@@ -4,7 +4,7 @@ title: Contributors
 permalink: /contributors/
 ---
 
-{% assign contributors = "james_tadd_adcox,daniel_bailey,maddie_baxter,jack_bedell,ellen_boyette,t_r_brady,laynie_browne,lauren_camp,andrew_cothren,jon_doughboy,gabe_durham,sean_ennis,connor_fisher,ivy_grimes,adam_jeffrey_jr,david_s_maduli,daniel_miller,christina_m_rau" | split: "," %}
+{% assign contributors = "james_tadd_adcox,daniel_bailey,maddie_baxter,jack_bedell,ellen_boyette,t_r_brady,laynie_browne,chelsea_bunn,lauren_camp,andrew_cothren,jon_doughboy,gabe_durham,sean_ennis,connor_fisher,ivy_grimes,adam_jeffrey_jr,david_s_maduli,daniel_miller,christina_m_rau" | split: "," %}
 
 {% for contributor in contributors %}
   {% assign parts = contributor | split: "_" %}
