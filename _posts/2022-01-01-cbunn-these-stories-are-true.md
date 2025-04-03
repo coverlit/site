@@ -111,10 +111,9 @@ people who have given me
 anything I want.
 
 
-
 *An erasure of the statements made by Senator Al Franken, Kevin Spacey, Harvey Weinstein, Jeffrey Tambor, and Louis C.K. after they were accused of sexual misconduct.
 </div>
-<br><br>
+<br>
 <br><br>
 <hr>
 Chelsea Bunn is a poet and educator living in New Mexico. Her work appears in publications including Snapdragon, The Big Windows Review, Dogwood, Georgetown Review, and a forthcoming anthology by The Right Angle Publishing. She earned her BA in creative writing and her MFA in poetry at Hunter College, where she received a teaching fellowship, a Norma Lubetsky Friedman Scholarship, and taught creative writing for eleven years. She was selected as Thinker in Residence by Art in Odd Places in 2016 and was awarded the Academy of American Poets Prize twice. She was born and raised in NYC, and currently teaches poetry for Santa Fe Community College and UNM Osher.
