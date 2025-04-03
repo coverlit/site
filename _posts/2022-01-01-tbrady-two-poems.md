@@ -30,7 +30,7 @@ or any cross between the two"
 
  
 <h3>No Numinous</h3>
-<img src="https://cover.pub/images/TR_Brady_Crop1.png">
+<img src="/images/TR_Brady_crop1.png">
 </div>
 <br><br>
 <br><br>
