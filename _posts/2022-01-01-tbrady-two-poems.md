@@ -5,7 +5,7 @@ date: 2022-01-01 10:00:00 -0000
 categories: [poetry, t_r_brady]
 ---
 <div class="poem">
-<h3>I wWant to Know About Nighthawks</h3>
+<h3>I Want to Know About Nighthawks</h3>
 "I’ve never been Edward Hopper,           but every night               when I empty my spam folder 
 
 I want to know             what my internet knows              of my urges       I don’t 
