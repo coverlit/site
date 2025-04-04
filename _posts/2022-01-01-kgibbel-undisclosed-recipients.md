@@ -5,143 +5,143 @@ date: 2022-01-01 10:00:00 -0000
 categories: [poetry, katherine_gibbel]
 ---
 <div class="poem">
-"To: 		<undisclosed "recipients">
+To: 		<undisclosed "recipients">
 
 Subject: 	We’re Driving Away from the Sunset
 
 away from the accident—what you call a condition
 
->of the quarter inch snow film 
+">"of the quarter inch snow film 
 
 gone already—the rearview making an orange cloud embedded
 
->in the blue declivity—a skyline of slopes
+">"in the blue declivity—a skyline of slopes
 
->>each oak-lined house incapable of encountering
+">>"each oak-lined house incapable of encountering
 
 the space of what we know
 
->the backward moving view—the walls
+">"the backward moving view—the walls
 
->>of light encase the car
+">>"of light encase the car
 
->>>in argument for distance 
+">>>"in argument for distance 
 
 for the golden precedent of wheat
 
->or the low fields of what’s not yet corn
+">"or the low fields of what’s not yet corn
 
->>a $750 idea slanting the dash 
+">>"a $750 idea slanting the dash 
 
 on a Tuesday type of Sunday
 
 the horizon knows how to dress up as a movie
 
->we try to dress ourselves up as if
+">"we try to dress ourselves up as if
 
->>whoever thought of love was a friend of ours
+">>"whoever thought of love was a friend of ours
 
->>>somewhere out in the possible hills
+">>>"somewhere out in the possible hills
 
 you are not an island
 
->not in this car—not in the world
+">"not in this car—not in the world
 
->>its pinpoint precision loosening
+">>"its pinpoint precision loosening
 
->>>as we zoom closer toward the map
+">>>"as we zoom closer toward the map
 
->>>>you are here with me
+">>>>"you are here with me
 
 in athleisure in braided pinks
 
->that tie close your clothes 
+">"that tie close your clothes 
 
->>before the arrow of I-80
+">>"before the arrow of I-80
 
 what does fright know of automatic
 
->windows—what does the wind
+">"windows—what does the wind
 
->>know of itself—neither I nor you
+">>"know of itself—neither I nor you
 
->>>could guess
+">>>"could guess
 
 you chug fluids in the passenger side
 
->afflicted—what or whom we take back or with us
+">"afflicted—what or whom we take back or with us
 
 the set and unknowable plan
 
-To: 		<undisclosed recipients> 
+To: 		<undisclosed "recipients"> 
 
 Subject:	Am I Your Bird
 
 in bluestone below the effigy 
 
->this pewter light lining
+">"this pewter light lining
 
->>meteorites along the belt
+">>"meteorites along the belt
 
 of high quality marble
 
->I mistook boulders for leftovers
+">"I mistook boulders for leftovers
 
->>but we’re all finding ways to shore up erosion
+">>"but we’re all finding ways to shore up erosion
 
->>>along the effulgent lakes 
+">>>"along the effulgent lakes 
 
 as if soft light would eat stone
 
->and the statue’s flared jacket in unyielding bronze
+">"and the statue’s flared jacket in unyielding bronze
 
 cast and uncast seems to catch the same wind
 
->whipping your hair and the fine wrinkles 
+">"whipping your hair and the fine wrinkles 
 
->>of your face into a smile before the fixed carousel
+">>"of your face into a smile before the fixed carousel
 
 of my obvious heart 
 
->not everything that moves moves me
+">"not everything that moves moves me
 
 my breath slips with the cormorant
 
->slipping under the water’s
+">"slipping under the water’s
 
->>surface—thank god for cohesion for the arc
+">>"surface—thank god for cohesion for the arc
 
->>>the flung stick made in the air
+">>>"the flung stick made in the air
 
->>>>into the lip
+">>>>"into the lip
 
 of the water—what we gather
 
->to protect the shelf of land
+">"to protect the shelf of land
 
->>from falling into the insistent tide
+">>"from falling into the insistent tide
 
->>>all these war hero sculptures
+">>>"all these war hero sculptures
 
 surveying the byways—that which we protect
 
->and that which we try to leave behind
+">"and that which we try to leave behind
 
->>some sour memory in low
+">>"some sour memory in low
 
->>>in full relief—the sudden eagle
+">>>"in full relief—the sudden eagle
 
 flying toward me in the passenger seat of your car
 
->eye-level—my bird’s-eye-view
+">"eye-level—my bird’s-eye-view
 
->>on that high-up bridge between the mountains
+">>"on that high-up bridge between the mountains
 
 of what crosses my attention—I hope
 
->I don’t miss the birches 
+">"I don’t miss the birches 
 
->>in their enamel shells for the woods"
+">>"in their enamel shells for the woods
 </div>
 <br><br>
 <br><br>
