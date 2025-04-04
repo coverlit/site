@@ -2,7 +2,7 @@
 layout: post
 title: Two Poems by Jose Hernandez Diaz
 date: 2022-01-01 10:00:00 -0000
-categories: [poetry, laynie_browne]
+categories: [poetry, jose_hernandez_diaz]
 ---
 <div class="poem">
 <h3>The Wolf</h3>
