@@ -5,7 +5,7 @@ date: 2022-01-01 10:00:00 -0000
 categories: [poetry, will_cordiero]
 ---
 <div class="poem">
-<h3>Golder Age</h3>
+<h3>Golden Age</h3>
 “Antiquity held too light thoughts from objects of mortality, while some drew provocations of mirth from anatomies, and jugglers showed tricks with skeletons; when fiddlers made not so pleasant mirth as fencers, and men could sit with quiet  stomachs, while hanging was played before them.” 
 
 —Sir Thomas Browne, Hydriotaphia  
