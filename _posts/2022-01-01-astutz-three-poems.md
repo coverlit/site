@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Three Poems by Adam Stutz
-date: 2024-10-04 10:00:00 -0000
+date: 2022-01-01 10:00:00 -0000
 categories: [poetry, adam_stutz]
 ---
 <div class="poem">
