@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Howl by Tetman Callis
+title: The Four of Us Are Dying by Edward Mullany
 date: 2022-01-01 10:00:00 -0000
 categories: [fiction, edward_mullany]
 ---
