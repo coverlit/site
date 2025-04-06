@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Two Poems by Lindsey Webb
+title: Three Poems by Lindsey Webb
 date: 2022-01-01 10:00:00 -0000
 categories: [poetry, lindsey_webb]
 ---
