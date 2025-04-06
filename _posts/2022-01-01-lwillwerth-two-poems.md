@@ -113,8 +113,8 @@ if I run
 I’m running
 
 <h3>Trump It</h3>
-<img src="/images/TrumpIt1">
-<img src="/images/TrumpIt2">
+<img src="/images/TrumpIt1.jpg">
+<img src="/images/TrumpIt2.jpeg">
 </div>
 <br><br>
 <br><br>
