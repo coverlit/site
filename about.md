@@ -10,6 +10,7 @@ permalink: /about/
 <p><a href="https://ryanshea.info">Ryan Shea</a> edits fiction. "I want to publish work that gives a shit, that is not afraid to move, that is paying attention, but to something else. I'm excited about experimental, transgressive horror, speculative fiction that is not twee, and literary stories that run for the cliff's edge."</p>
 
 <h3>Submissions</h3>
+Submissions are <b>open</b>
 <p>Email submissions to coverlitmag@gmail.com.</p>
 <p>Include the title(s) and your name in the subject line.</p>
 <p>Add the work as an attachment (doc, pdf, whatever makes sense).</p>
