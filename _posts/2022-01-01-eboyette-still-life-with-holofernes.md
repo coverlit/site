@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Still Life With Holofernes by Ellen Boyette
-date: 2025-01-15 10:00:00 -0000
+date: 2022-01-01 10:00:00 -0000
 categories: [poetry, ellen_boyette]
 ---
 <div class="poem">
