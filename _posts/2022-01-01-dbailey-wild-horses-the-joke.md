@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wild Horses: The Joke by Daniel Bailey"
-date: 2024-12-17 10:00:00 -0000
+date: 2022-01-01 10:00:00 -0000
 categories: [fiction, daniel_bailey]
 ---
 <div class="story">
