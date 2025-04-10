@@ -5,6 +5,7 @@ date: 2022-01-01 10:00:00 -0000
 categories: [poetry, katherine_gibbel]
 ---
 <div class="poem">
+  <pre>
 To: 		<undisclosed recipients>
 
 Subject: 	We’re Driving Away from the Sunset
@@ -142,6 +143,7 @@ of what crosses my attention—I hope
 >I don’t miss the birches 
 
 >>in their enamel shells for the woods
+>></pre>
 </div>
 <br><br>
 <br><br>
