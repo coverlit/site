@@ -7,8 +7,10 @@ categories: [poetry, t_r_brady]
 <div class="poem">
 <h3>I Want to Know About Nighthawks</h3>
 <pre>
+
  
 I’ve never been Edward Hopper,           but every night               when I empty my spam folder 
+
 
 I want to know             what my internet knows              of my urges       I don’t 
 
