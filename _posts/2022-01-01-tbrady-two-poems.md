@@ -8,8 +8,6 @@ categories: [poetry, t_r_brady]
 <h3>I Want to Know About Nighthawks</h3>
 <pre>
 I’ve never been Edward Hopper,           but every night               when I empty my spam folder 
-
-
 I want to know             what my internet knows              of my urges       I don’t 
 
 open any of my emails                            my curse/r drifts             within the world of the screen 
