@@ -25,6 +25,7 @@ Everything was not fine, but there was no way to explain that to Leopard. John e
 It was Tuesday, the world was ending, and John’s cat was dying. He was on one side of Montrose and the four-lane street was barren. Far down the block to the south he saw a construction crew ripping up the asphalt. A yellow dog of a machine pawed at the ground while a cluster of men and women in hardhats drank coffee.
 
 John wasn’t sure what time it was. The sky often looked like dusk or dawn or rain when the clouds were low and all the lights in the city were on.
+
 Two of the construction crew began dancing. Were the construction crew drinking coffee or something stronger from their flasks? They shouldn’t be doing that, but John couldn’t blame them. The world was ending. His cat was dying. His cat was yowling.
 
 To stop his cat from yowling, John stepped off the sidewalk and crossed to the wide, green, wild-weeded median, because as long as he kept moving his cat would keep from yowling. He wondered if this is why babies stopped crying in cars and why marsupials had pouches. John knew very little about cars or biology.
