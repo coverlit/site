@@ -55,6 +55,7 @@ Leopard’s yowl had been growing and was now full-throated. It grated on his ea
 
 As he walked, he kicked an empty energy drink can out of the way, stomped on the flyers of the missing fallen from telephone poles and now half-pasted to the sidewalk. The faces there were torn and stained from foot traffic and the weather. John recognized none of them. He did not look very carefully. He focused on Leopard and the vet. He passed no other people. He saw no other pets.
 
+⁂
 
 It was Tuesday, the world was ending, and John’s cat was dying. And yet planes still flew overhead. Not in the usual patterns, not in the usual approaches, and not to the usual airports. The last time John had checked ticket prices for a flight out of Houston, they had all read N/A. Not that he had the money anyway, and credit cards had stopped working long ago.
 
