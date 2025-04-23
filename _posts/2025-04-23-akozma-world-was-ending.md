@@ -20,6 +20,7 @@ Leopard rubbed angrily against John’s fingertips.
 
 Everything was not fine, but there was no way to explain that to Leopard. John even had trouble explaining it to himself. The streets were empty, yes, but that wasn’t unusual, not a particular result of the atmosphere thinning or Antarctica collapsing into the ocean. John often walked in late evening and early morning when the streets were clean as if newly unwrapped. On every block there’d be a window lit up, but no movement or silhouette. Sometimes John would stand across the street from those windows and wait. He’d imagine the rest of the room from the features he could see. The edge of a giant computer screen meant that person was a graphic designer. A series of masks on the wall marked them as a frequent traveler. Too many bookshelves outed them as a misanthrope. And there was a time when John was younger [John the Younger] that he climbed a tree to visit his girlfriend, the closest tree still ten feet away from her window, and he caught her unawares. They hadn’t set up a meeting in advance. He’d wanted to surprise her. She was under her covers and moving, he was sure, like she was masturbating. John was embarrassed and shocked and afraid to climb back down because her bed faced the window and he was terrified any further movement might draw her attention. This is what he told himself at the time. And that person [John the Younger] wasn’t him, not anymore.
 	
+*
 
 It was Tuesday, the world was ending, and John’s cat was dying. He was on one side of Montrose and the four-lane street was barren. Far down the block to the south he saw a construction crew ripping up the asphalt. A yellow dog of a machine pawed at the ground while a cluster of men and women in hardhats drank coffee.
 
@@ -38,6 +39,7 @@ Leopard yowled. The weeds bounced up around John’s feet, and John thought that
 
 John stepped off the median, setting his foot firmly on the asphalt, and Leopard, for the moment, stopped her yowling. No car hit John as he crossed. There were no vehicles on the road as far as he could see in either direction. As a child with a skateboard, an empty street had been his easy version of heaven.
 
+§
 
 It was Tuesday, the world was ending, and John’s cat was dying. It was obvious from the way that Leopard yowled whenever he stopped walking that she was dying. There was a raggedness to her voice. Her vocal cords were fraying. It was terror of the empty abyss and the knowledge of all those foods never to be eaten again.
 
