@@ -40,7 +40,7 @@ Leopard yowled. The weeds bounced up around John’s feet, and John thought that
 
 John stepped off the median, setting his foot firmly on the asphalt, and Leopard, for the moment, stopped her yowling. No car hit John as he crossed. There were no vehicles on the road as far as he could see in either direction. As a child with a skateboard, an empty street had been his easy version of heaven.
 
-§
+*
 
 It was Tuesday, the world was ending, and John’s cat was dying. It was obvious from the way that Leopard yowled whenever he stopped walking that she was dying. There was a raggedness to her voice. Her vocal cords were fraying. It was terror of the empty abyss and the knowledge of all those foods never to be eaten again.
 
@@ -56,7 +56,7 @@ Leopard’s yowl had been growing and was now full-throated. It grated on his ea
 
 As he walked, he kicked an empty energy drink can out of the way, stomped on the flyers of the missing fallen from telephone poles and now half-pasted to the sidewalk. The faces there were torn and stained from foot traffic and the weather. John recognized none of them. He did not look very carefully. He focused on Leopard and the vet. He passed no other people. He saw no other pets.
 
-⁂
+*
 
 It was Tuesday, the world was ending, and John’s cat was dying. And yet planes still flew overhead. Not in the usual patterns, not in the usual approaches, and not to the usual airports. The last time John had checked ticket prices for a flight out of Houston, they had all read N/A. Not that he had the money anyway, and credit cards had stopped working long ago.
 
@@ -68,6 +68,7 @@ The world was ending. No one really knew what that meant. John certainly didn’
 
 John stopped long enough for Leopard to yowl. The sound of another living thing made him feel less alone. But this sound was pure pain, so as soon as she started yowling, he walked, and it stopped.
 
+*
 
 It was Tuesday, the world was ending, and John’s cat was dying. The vet was open, which was a miracle. He hadn’t been sure. He had only hoped. The blinds were drawn on every window, but figures walked solemnly back and forth behind them.
 
@@ -97,4 +98,4 @@ John sat on the concrete steps leading up to the vet’s door. He could still fe
 <br><br>
 <br><br>
 <hr>
-Andrew Kozma’s fiction appears in Apex, ergot., and Seize the Press, while his poems appear in Strange Horizons, The Deadlands, and Contemporary Verse 2. His first book of poems, City of Regret, won the Zone 3 First Book Award, and his second book, Orphanotrophia, was published in 2021 by Cobalt Press. You can find him on Bluesky at @thedrellum.bsky.social and visit his website at <a href="https://www.andrewkozma.net">www.andrewkozma.net</a>.
+Andrew Kozma’s fiction appears in Apex, ergot., and Seize the Press, while his poems appear in Strange Horizons, The Deadlands, and Contemporary Verse 2. His first book of poems, City of Regret, won the Zone 3 First Book Award, and his second book, Orphanotrophia, was published in 2021 by Cobalt Press. You can find him on Bluesky at <a href="@andrewkozma.net">@andrewkozma.net</a> and visit his website at <a href="https://www.andrewkozma.net">www.andrewkozma.net</a>.
