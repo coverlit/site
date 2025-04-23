@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The World was Ending by Andrew Kozma
-date: 2025-04-24 10:00:00 -0000
+date: 2025-04-23 10:00:00 -0000
 ---
 <div class="story">
 It was Tuesday, the world was ending, and John’s cat was dying. The vet was a mile away. He had no car and couldn’t get a ride service app to answer. All his friends were otherwise occupied. 
