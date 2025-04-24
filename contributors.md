@@ -4,7 +4,7 @@ title: Contributors
 permalink: /contributors/
 ---
 
-{% assign contributors = "james_tadd_adcox,daniel_bailey,maddie_baxter,jack_bedell,ellen_boyette,t_r_brady,laynie_browne,chelsea_bunn,tetman_callis,kenneth_cale,lauren_camp,laton_carter,laura_carter,will_cordiero,andrew_cothren,jose_hernandez_diaz,jon_doughboy,gabe_durham,sean_ennis,connor_fisher,katherine_gibbel,andrew_gibson,suzanne_gold,ivy_grimes,denise_jarrott,adam_jeffrey_jr, andrew_kozma,mark_leidner,kate_lindroos,david_s_maduli,edie_meidav,daniel_miller,edward_mullany,patty_nash,christina_m_rau,daniel_romo,fortunato_salazar,paul_siegell,rachel_statham,adam_stutz,stephanie_valente,lindsey_webb,laura_willwerth,yoru" | split: "," %}
+{% assign contributors = "james_tadd_adcox,daniel_bailey,maddie_baxter,jack_bedell,ellen_boyette,t_r_brady,laynie_browne,chelsea_bunn,tetman_callis,kenneth_cale,lauren_camp,laton_carter,laura_carter,will_cordiero,andrew_cothren,jose_hernandez_diaz,jon_doughboy,gabe_durham,sean_ennis,connor_fisher,katherine_gibbel,andrew_gibson,suzanne_gold,ivy_grimes,denise_jarrott,adam_jeffrey_jr,andrew_kozma,mark_leidner,kate_lindroos,david_s_maduli,edie_meidav,daniel_miller,edward_mullany,patty_nash,christina_m_rau,daniel_romo,fortunato_salazar,paul_siegell,rachel_statham,adam_stutz,stephanie_valente,lindsey_webb,laura_willwerth,yoru" | split: "," %}
 
 {% for contributor in contributors %}
   {% assign parts = contributor | split: "_" %}
