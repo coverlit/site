@@ -1,7 +1,8 @@
 ---
 layout: post
 title: The World was Ending by Andrew Kozma
-date: 2025-04-23 10:00:00 -0000
+date: 2025-04-24 10:00:00 -0000
+category: [fiction, andrew_kozma]
 ---
 <div class="story">
 It was Tuesday, the world was ending, and John’s cat was dying. The vet was a mile away. He had no car and couldn’t get a ride service app to answer. All his friends were otherwise occupied. 
@@ -98,4 +99,4 @@ John sat on the concrete steps leading up to the vet’s door. He could still fe
 <br><br>
 <br><br>
 <hr>
-Andrew Kozma’s fiction appears in Apex, ergot., and Seize the Press, while his poems appear in Strange Horizons, The Deadlands, and Contemporary Verse 2. His first book of poems, City of Regret, won the Zone 3 First Book Award, and his second book, Orphanotrophia, was published in 2021 by Cobalt Press. You can find him on Bluesky at <a href="@andrewkozma.net">@andrewkozma.net</a> and visit his website at <a href="https://www.andrewkozma.net">www.andrewkozma.net</a>.
+Andrew Kozma’s fiction appears in Apex, ergot., and Seize the Press, while his poems appear in Strange Horizons, The Deadlands, and Contemporary Verse 2. His first book of poems, City of Regret, won the Zone 3 First Book Award, and his second book, Orphanotrophia, was published in 2021 by Cobalt Press. You can find him on Bluesky at <a href="https://bsky.app/profile/andrewkozma.net">@andrewkozma.net</a> and visit his website at <a href="https://www.andrewkozma.net">www.andrewkozma.net</a>.
