@@ -74,6 +74,7 @@ John stopped long enough for Leopard to yowl. The sound of another living thing 
 It was Tuesday, the world was ending, and John’s cat was dying. The vet was open, which was a miracle. He hadn’t been sure. He had only hoped. The blinds were drawn on every window, but figures walked solemnly back and forth behind them.
 
 The air carried the acrid sting of burnt fur. John did not knock on the glass. He didn’t try the handle. Leopard was yowling again. He stuck fingers through the wire door and petted whatever fur he could find, but she did not stop yowling.
+
 One of the figures behind the blinds came up to the door and stood just as quiet and still as he was. Through a gap in the blinds he saw eyes, but without the skin around them to provide context, they were just eyes. Not sad eyes or questioning eyes or judgmental eyes. Just eyes. Just a witness.
 
 John knocked on the door. He noticed his hand was a mess of blood-lined scratches. They did not hurt. In a few days they would fade.
