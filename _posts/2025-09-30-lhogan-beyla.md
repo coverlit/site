@@ -21,4 +21,4 @@ The shape of forbidden words clamour from the edges of my mind and it is so very
 <br><br>
 <br><br>
 <hr>
-Liam Hogan is an award-winning speculative short story writer, with stories in Best of British Science Fiction and in Best of British Fantasy (NewCon Press). He volunteers at the creative writing charities Ministry of Stories, and Spark Young Writers. Sci-Fi collection: A Short History of the Future (Northodox Press). More details at http://happyendingnotguaranteed.blogspot.co.uk
+Liam Hogan is an award-winning speculative short story writer, with stories in Best of British Science Fiction and in Best of British Fantasy (NewCon Press). He volunteers at the creative writing charities Ministry of Stories, and Spark Young Writers. Sci-Fi collection: A Short History of the Future (Northodox Press). More details at <a href="http://happyendingnotguaranteed.blogspot.co.uk">http://happyendingnotguaranteed.blogspot.co.uk</a>
