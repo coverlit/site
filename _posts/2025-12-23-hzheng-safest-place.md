@@ -48,7 +48,6 @@ A car horn grew nearer. I squeezed her hand and felt the callus in her webbing. 
 
 I nodded, set my hand on my belly, and told my child, “I’m here.”
 
-
 </div>
 <br><br>
 <br><br>
