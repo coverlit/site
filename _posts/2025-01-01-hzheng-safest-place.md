@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Safest Place by Huina Zheng
-date: 2025-09-30 10:00:00 -0000
+date: 2026-01-01 10:00:00 -0000
 category: [fiction, huina_zheng]
 ---
 <div class="story">
