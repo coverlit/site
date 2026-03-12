@@ -23,6 +23,8 @@ Include the title(s) and your name in the subject line.
 
 Add the work as an attachment (doc, pdf, whatever makes sense).
 
+Only send previously unpublished work. 
+
 We’ll ask for a short bio on acceptance.
 
 Please submit with the knowledge that we will likely have edits.
