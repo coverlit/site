@@ -14,8 +14,11 @@ We have no affiliation with <a href="https://covermagnyc.com/">this magazine tha
 <a href="https://ryanshea.info">Ryan Shea</a> edits fiction. "I want to publish work that gives a shit, that is not afraid to move, that is paying attention, but to something else. I'm excited about experimental, transgressive horror, speculative fiction that is not twee, and literary stories that run for the cliff's edge."
 
 
-<h3>Submissions</h3>
-Submissions are <b>open</b>
+<h3>Poetry Submissions</h3>
+Submissions of poetry are <b>Closed</b> as of May 17 2026.
+
+<h3>Fiction Submissions</h3>
+Submissions of fiction are <b>open</b>
 
 Email submissions to coverlitmag@gmail.com.
 
