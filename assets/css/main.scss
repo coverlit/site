@@ -32,13 +32,13 @@ html[data-theme="dark"] {
    BASE LAYOUT
    ========================= */
 
-/* Background is controlled at html level */
+/* Root canvas background (THIS is what fixes your issue) */
 html {
   background: var(--bg);
   transition: background 200ms ease;
 }
 
-/* Body inherits text and stays transparent */
+/* Body is just text layer */
 body {
   background: transparent;
   color: var(--text);
@@ -115,7 +115,7 @@ pre code {
   transform-origin: center;
 }
 
-/* Rotation animation trigger */
+/* Rotation animation */
 #theme-toggle.spin {
   transform: rotate(180deg);
 }
@@ -129,11 +129,18 @@ pre code {
   outline-offset: 3px;
 }
 
-html, body {
-  background: var(--bg) !important;
+/* =========================
+   LEGACY OVERRIDE (no-style-please)
+   ========================= */
+
+/* Neutralize old global background rule */
+html,
+body {
+  background: transparent;
 }
 
+/* Disable legacy filter-based theming */
 body[a="dark"],
 body[a="auto"] {
-  filter: none !important;
+  filter: none;
 }
