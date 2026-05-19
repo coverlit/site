@@ -32,8 +32,14 @@ html[data-theme="dark"] {
    BASE LAYOUT
    ========================= */
 
-body {
+/* Use html as the true background root */
+html {
   background: var(--bg);
+}
+
+/* Body stays transparent and inherits text color */
+body {
+  background: transparent;
   color: var(--text);
 }
 
@@ -102,10 +108,4 @@ pre code {
   cursor: pointer;
   padding: 0.4rem 0.6rem;
   border-radius: 4px;
-}
-
-html,
-body {
-  background: var(--bg) !important;
-  color: var(--text);
 }
