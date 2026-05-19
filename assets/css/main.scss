@@ -41,6 +41,7 @@ html {
 body {
   background: transparent;
   color: var(--text);
+transition: background 200ms ease, color 200ms ease;
 }
 
 /* Links */
