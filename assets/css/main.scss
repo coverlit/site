@@ -103,3 +103,9 @@ pre code {
   padding: 0.4rem 0.6rem;
   border-radius: 4px;
 }
+
+html,
+body {
+  background: var(--bg) !important;
+  color: var(--text);
+}
