@@ -2,8 +2,17 @@
 <html lang="{{ page.lang | default: "en" }}">
   {%- include head.html -%}
 
-  <body a="{{ site.theme_config.appearance | default: "auto" }}">
-    
+  <body>
+    <!-- Theme init (prevents flash + sets initial state) -->
+    <script>
+      (function () {
+        const saved = localStorage.getItem("theme");
+        const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+        const theme = saved || (prefersDark ? "dark" : "light");
+        document.documentElement.setAttribute("data-theme", theme);
+      })();
+    </script>
+
     <button id="theme-toggle">
       ☼
     </button>
