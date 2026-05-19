@@ -32,17 +32,22 @@ html[data-theme="dark"] {
    BASE LAYOUT
    ========================= */
 
-/* Use html as the true background root */
+/* Background is controlled at html level */
 html {
   background: var(--bg);
+  transition: background 200ms ease;
 }
 
-/* Body stays transparent and inherits text color */
+/* Body inherits text and stays transparent */
 body {
   background: transparent;
   color: var(--text);
-transition: background 200ms ease, color 200ms ease;
+  transition: color 200ms ease;
 }
+
+/* =========================
+   TYPOGRAPHY
+   ========================= */
 
 /* Links */
 a {
@@ -53,10 +58,6 @@ a {
 h1, h2, h3, h4, h5, h6 {
   color: var(--header);
 }
-
-/* =========================
-   OPTIONAL TYPOGRAPHY POLISH
-   ========================= */
 
 /* Horizontal rules */
 hr {
@@ -89,7 +90,7 @@ pre {
   border-radius: 6px;
 }
 
-/* Make code inside pre not double-pad */
+/* Prevent double padding inside pre */
 pre code {
   background: transparent;
   padding: 0;
@@ -109,4 +110,21 @@ pre code {
   cursor: pointer;
   padding: 0.4rem 0.6rem;
   border-radius: 4px;
+
+  transition: transform 0.35s ease;
+  transform-origin: center;
+}
+
+/* Rotation animation trigger */
+#theme-toggle.spin {
+  transform: rotate(180deg);
+}
+
+/* =========================
+   ACCESSIBILITY
+   ========================= */
+
+#theme-toggle:focus {
+  outline: 2px solid var(--link);
+  outline-offset: 3px;
 }
