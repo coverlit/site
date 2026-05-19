@@ -18,7 +18,7 @@ We have no affiliation with <a href="https://covermagnyc.com/">this magazine tha
 Submissions of poetry are <b>closed</b> as of May 17 2026.
 
 <h3>Fiction Submissions</h3>
-Submissions of fiction are <b>open</b>
+Submissions of fiction are <b>open</b>.
 
 Email submissions to coverlitmag@gmail.com.
 
