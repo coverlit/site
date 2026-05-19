@@ -29,18 +29,18 @@ html[data-theme="dark"] {
 }
 
 /* =========================
-   BASE LAYOUT
+   BASE LAYOUT (FIXED)
    ========================= */
 
-/* Root canvas background (THIS is what fixes your issue) */
+/* Root background MUST be controlled only here */
 html {
-  background: var(--bg);
-  transition: background 200ms ease;
+  background-color: var(--bg);
+  transition: background-color 200ms ease;
 }
 
-/* Body is just text layer */
+/* Body should NEVER paint background */
 body {
-  background: transparent;
+  background: none;
   color: var(--text);
   transition: color 200ms ease;
 }
@@ -150,11 +150,6 @@ pre code {
    LEGACY OVERRIDE (no-style-please)
    ========================= */
 
-/* Neutralize old global background rule */
-html,
-body {
-  background: transparent;
-}
 
 /* Disable legacy filter-based theming */
 body[a="dark"],
