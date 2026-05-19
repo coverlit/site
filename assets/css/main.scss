@@ -104,18 +104,35 @@ pre code {
   position: fixed;
   top: 1rem;
   right: 1rem;
+
   background: transparent;
   border: 1px solid currentColor;
   color: inherit;
   cursor: pointer;
-  padding: 0.4rem 0.6rem;
-  border-radius: 4px;
 
+  /* Larger, more usable button */
+  padding: 0.6rem 0.9rem;
+  font-size: 1.1rem;
+  line-height: 1;
+
+  border-radius: 6px;
+
+  /* Smooth animation for rotation + hover */
   transition: transform 0.35s ease;
   transform-origin: center;
 }
 
-/* Rotation animation */
+/* Hover feedback */
+#theme-toggle:hover {
+  transform: scale(1.05);
+}
+
+/* Click feedback */
+#theme-toggle:active {
+  transform: scale(0.95);
+}
+
+/* Rotation animation trigger */
 #theme-toggle.spin {
   transform: rotate(180deg);
 }
