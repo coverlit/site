@@ -1,11 +1,11 @@
 @import "no-style-please";
 
 /* =========================
-   THEME VARIABLES
+   BASE THEME (FALLBACK SAFETY)
    ========================= */
 
-/* Light theme */
-html[data-theme="light"] {
+/* Always define defaults first */
+:root {
   --bg: #ffffff;
   --text: #000000;
   --link: #7a2d5c;
@@ -16,7 +16,10 @@ html[data-theme="light"] {
   --code-bg: rgba(0, 0, 0, 0.05);
 }
 
-/* Dark theme */
+/* =========================
+   DARK THEME OVERRIDE
+   ========================= */
+
 html[data-theme="dark"] {
   --bg: #000000;
   --text: #ffffff;
@@ -29,16 +32,29 @@ html[data-theme="dark"] {
 }
 
 /* =========================
-   BASE LAYOUT (FIXED)
+   LIGHT THEME OVERRIDE
    ========================= */
 
-/* Root background MUST be controlled only here */
+html[data-theme="light"] {
+  --bg: #ffffff;
+  --text: #000000;
+  --link: #7a2d5c;
+  --header: #000000;
+
+  --muted: rgba(0, 0, 0, 0.6);
+  --border: rgba(0, 0, 0, 0.15);
+  --code-bg: rgba(0, 0, 0, 0.05);
+}
+
+/* =========================
+   BASE LAYOUT
+   ========================= */
+
 html {
   background-color: var(--bg);
   transition: background-color 200ms ease;
 }
 
-/* Body should NEVER paint background */
 body {
   background: none;
   color: var(--text);
@@ -49,24 +65,20 @@ body {
    TYPOGRAPHY
    ========================= */
 
-/* Links */
 a {
   color: var(--link);
 }
 
-/* Headers */
 h1, h2, h3, h4, h5, h6 {
   color: var(--header);
 }
 
-/* Horizontal rules */
 hr {
   border: none;
   border-top: 1px solid var(--border);
   margin: 2rem 0;
 }
 
-/* Blockquotes */
 blockquote {
   border-left: 3px solid var(--link);
   padding-left: 1rem;
@@ -74,7 +86,6 @@ blockquote {
   color: var(--muted);
 }
 
-/* Inline code */
 code {
   background: var(--code-bg);
   padding: 0.2rem 0.4rem;
@@ -82,7 +93,6 @@ code {
   font-size: 0.95em;
 }
 
-/* Code blocks */
 pre {
   background: var(--code-bg);
   padding: 1rem;
@@ -90,7 +100,6 @@ pre {
   border-radius: 6px;
 }
 
-/* Prevent double padding inside pre */
 pre code {
   background: transparent;
   padding: 0;
@@ -110,29 +119,24 @@ pre code {
   color: inherit;
   cursor: pointer;
 
-  /* Larger, more usable button */
   padding: 0.6rem 0.9rem;
   font-size: 1.1rem;
   line-height: 1;
 
   border-radius: 6px;
 
-  /* Smooth animation for rotation + hover */
   transition: transform 0.35s ease;
   transform-origin: center;
 }
 
-/* Hover feedback */
 #theme-toggle:hover {
   transform: scale(1.05);
 }
 
-/* Click feedback */
 #theme-toggle:active {
   transform: scale(0.95);
 }
 
-/* Rotation animation trigger */
 #theme-toggle.spin {
   transform: rotate(180deg);
 }
@@ -150,8 +154,6 @@ pre code {
    LEGACY OVERRIDE (no-style-please)
    ========================= */
 
-
-/* Disable legacy filter-based theming */
 body[a="dark"],
 body[a="auto"] {
   filter: none;
