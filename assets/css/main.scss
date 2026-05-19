@@ -4,12 +4,16 @@
    THEME VARIABLES
    ========================= */
 
-/* Light theme (default) */
+/* Light theme */
 html[data-theme="light"] {
   --bg: #ffffff;
   --text: #000000;
   --link: #7a2d5c;
   --header: #000000;
+
+  --muted: rgba(0, 0, 0, 0.6);
+  --border: rgba(0, 0, 0, 0.15);
+  --code-bg: rgba(0, 0, 0, 0.05);
 }
 
 /* Dark theme */
@@ -18,10 +22,14 @@ html[data-theme="dark"] {
   --text: #ffffff;
   --link: #8ab4f8;
   --header: #ffffff;
+
+  --muted: rgba(255, 255, 255, 0.6);
+  --border: rgba(255, 255, 255, 0.2);
+  --code-bg: rgba(255, 255, 255, 0.08);
 }
 
 /* =========================
-   BASE STYLES
+   BASE LAYOUT
    ========================= */
 
 body {
@@ -40,6 +48,47 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* =========================
+   OPTIONAL TYPOGRAPHY POLISH
+   ========================= */
+
+/* Horizontal rules */
+hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 2rem 0;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 3px solid var(--link);
+  padding-left: 1rem;
+  margin-left: 0;
+  color: var(--muted);
+}
+
+/* Inline code */
+code {
+  background: var(--code-bg);
+  padding: 0.2rem 0.4rem;
+  border-radius: 4px;
+  font-size: 0.95em;
+}
+
+/* Code blocks */
+pre {
+  background: var(--code-bg);
+  padding: 1rem;
+  overflow-x: auto;
+  border-radius: 6px;
+}
+
+/* Make code inside pre not double-pad */
+pre code {
+  background: transparent;
+  padding: 0;
+}
+
+/* =========================
    THEME TOGGLE BUTTON
    ========================= */
 
@@ -52,4 +101,5 @@ h1, h2, h3, h4, h5, h6 {
   color: inherit;
   cursor: pointer;
   padding: 0.4rem 0.6rem;
+  border-radius: 4px;
 }
