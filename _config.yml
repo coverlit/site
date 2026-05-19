@@ -2,7 +2,6 @@ title: Cover # name of the site
 url: https://cover.pub # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  Fiction and poetry for the present.
 
 permalink: /:slug.html
 
