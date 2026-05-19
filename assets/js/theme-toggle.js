@@ -4,18 +4,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const root = document.documentElement;
 
-  // Apply saved theme on load (safe, minimal)
   const saved = localStorage.getItem("theme");
   if (saved) {
     root.setAttribute("data-theme", saved);
   }
 
-  // Set initial icon based on current theme
   const setIcon = (theme) => {
     button.textContent = theme === "dark" ? "☀" : "☾";
   };
 
-  // Initialize icon
   setIcon(root.getAttribute("data-theme") || "light");
 
   button.addEventListener("click", () => {
@@ -26,5 +23,10 @@ document.addEventListener("DOMContentLoaded", () => {
     localStorage.setItem("theme", next);
 
     setIcon(next);
+
+    // trigger rotation animation
+    button.classList.remove("spin");
+    void button.offsetWidth; // forces reflow so animation re-triggers
+    button.classList.add("spin");
   });
 });
