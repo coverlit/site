@@ -15,7 +15,7 @@ We have no affiliation with <a href="https://covermagnyc.com/">this magazine tha
 
 
 <h3>Poetry Submissions</h3>
-Submissions of poetry are <b>Closed</b> as of May 17 2026.
+Submissions of poetry are <b>closed</b> as of May 17 2026.
 
 <h3>Fiction Submissions</h3>
 Submissions of fiction are <b>open</b>
@@ -31,3 +31,5 @@ Only send previously unpublished work.
 We’ll ask for a short bio on acceptance.
 
 Please submit with the knowledge that we will likely have edits.
+
+We ask for non-exclusive, one-time, worldwide rights to publish and archive your work on this website.
