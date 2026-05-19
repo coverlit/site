@@ -1,21 +1,47 @@
----
----
-
 @import "no-style-please";
 
-html[data-theme="dark"] body {
-  background: #000;
-  color: #fff;
+/* =========================
+   THEME VARIABLES
+   ========================= */
+
+/* Light theme (default) */
+html[data-theme="light"] {
+  --bg: #ffffff;
+  --text: #000000;
+  --link: #7a2d5c;
+  --header: #000000;
 }
 
-html[data-theme="light"] body {
-  background: #fff;
-  color: #000;
+/* Dark theme */
+html[data-theme="dark"] {
+  --bg: #000000;
+  --text: #ffffff;
+  --link: #8ab4f8;
+  --header: #ffffff;
 }
 
-html[data-theme="light"] a {
-  color: #7a2d5c;
+/* =========================
+   BASE STYLES
+   ========================= */
+
+body {
+  background: var(--bg);
+  color: var(--text);
 }
+
+/* Links */
+a {
+  color: var(--link);
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--header);
+}
+
+/* =========================
+   THEME TOGGLE BUTTON
+   ========================= */
 
 #theme-toggle {
   position: fixed;
@@ -25,4 +51,5 @@ html[data-theme="light"] a {
   border: 1px solid currentColor;
   color: inherit;
   cursor: pointer;
+  padding: 0.4rem 0.6rem;
 }
