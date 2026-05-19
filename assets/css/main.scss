@@ -2,3 +2,27 @@
 ---
 
 @import "no-style-please";
+
+html[data-theme="dark"] body {
+  background: #000;
+  color: #fff;
+}
+
+html[data-theme="light"] body {
+  background: #fff;
+  color: #000;
+}
+
+html[data-theme="light"] a {
+  color: #7a2d5c;
+}
+
+#theme-toggle {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  background: transparent;
+  border: 1px solid currentColor;
+  color: inherit;
+  cursor: pointer;
+}
