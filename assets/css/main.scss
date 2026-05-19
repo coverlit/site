@@ -1,4 +1,18 @@
 ---
 ---
+:root {
+  --bg: #111;
+  --text: #eee;
+}
+
+html[data-theme="light"] {
+  --bg: #fff;
+  --text: #111;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+}
 
 @import "no-style-please";
