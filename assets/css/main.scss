@@ -132,3 +132,8 @@ pre code {
 html, body {
   background: var(--bg) !important;
 }
+
+body[a="dark"],
+body[a="auto"] {
+  filter: none !important;
+}
