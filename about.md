@@ -11,7 +11,7 @@ We have no affiliation with <a href="https://covermagnyc.com/">this magazine tha
 
 <a href="https://hanna-shea.com/">Hanna Shea</a> edits poetry. "I want to read poems that make space for incompatibility, disunion, chaos. Also poems about the rocks and clouds near your home."
 
-<a href="https://ryanshea.info">Ryan Shea</a> edits fiction. "I want to publish work that gives a shit, that is not afraid to move, that is paying attention, but to something else. I'm excited about experimental, transgressive horror, speculative fiction that is not twee, and literary stories that run for the cliff's edge."
+<a href="https://ryanshea.info">Ryan Shea</a> edits fiction. "I want to publish work that gives a shit, that is not afraid to move, that is paying close attention, but to something else."
 
 
 <h3>Poetry Submissions</h3>
