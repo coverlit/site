@@ -7,6 +7,8 @@ We publish fiction and poetry.
 
 We pay $25 per accepted piece.
 
+Do not send work generated with LLMs or other AI. 
+
 We have no affiliation with <a href="https://covermagnyc.com/">this magazine that existed until 2000</a>, but it looks rad and was founded the year I (Ryan) was born.
 
 <a href="https://hanna-shea.com/">Hanna Shea</a> edits poetry. "I want to read poems that make space for incompatibility, disunion, chaos. Also poems about the rocks and clouds near your home."
